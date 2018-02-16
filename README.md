@@ -10,6 +10,15 @@ The STC15f2k60s2 series of MCU is a single chip mirocontroller based on high per
 # The STC15f2k60s2 or generally the 8051 Miroprocessor has no OS. Take Note
 Because of this, when you are writing your code in the main() function, make sure you put your code in a while loop to ensure that it continues to run, otherwise it will fall into nothing.
 
+# Board Details
+## Form Factor: LQFP-44 (44 I/O Pins)
+* STC - Program Flash in User Program area cannot be used as EEPROM, but there are special EEPROM
+* 15 - Speed
+* F - Unknown
+* 2K - SRAM 2x1024 bytes
+* 60 Program Space(Flash) Kb
+* S2 - Unknown
+
 https://www.8051projects.net/wiki/Keil_Embedded_C_Tutorial#Introduction_to_Keil_C
 
 Thanks to staff at (KIST) Kiambu Institute of Technology for the amazing labs installed by AVIC

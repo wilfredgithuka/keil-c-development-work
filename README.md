@@ -14,7 +14,7 @@ The STC15f2k60s2 series of MCU is a single chip mirocontroller based on high per
 * 60K bytes flash ROM, 2048 bytes data RAM
 * On-chip EEPROM, 2 UARTs, WDT, ISP/IAP, A/D, CCP/PWM
 
-# The STC15f2k60s2 or generally the 8051 Miroprocessor has no OS. Take Note
+# The STC15f2k60s2 has no Opertating System.
 Because of this, when you are writing your code in the main() function, make sure you put your code in a while loop to ensure that it continues to run, otherwise it will fall into nothing.
 
 # Board Details

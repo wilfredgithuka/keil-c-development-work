@@ -1,4 +1,4 @@
-# keil-c-development-work
+# Keil C / Embeeded C Development
 All my development work on the STC15f2k60s2 board using Embedded C
 
 # What is Keil C or Embeeded C?

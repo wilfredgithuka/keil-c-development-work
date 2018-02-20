@@ -1,6 +1,7 @@
 # Keil C / Embeeded C Development
 All my development work on the STC15f2k60s2 board using Embedded C
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "The STC15f2k60s2")
 # What is Keil C or Embeeded C?
 The use of C language to program microcontrollers is becoming too common. And most of the time its not easy to buld an application in assembly which instead you can make easily in C. So Its important that you know C language for microcontroller which is commonly known as Embedded C. As we are going to use Keil C51 Compiler, hence we also call it Keil C.
 
